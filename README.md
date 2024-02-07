@@ -11,17 +11,25 @@ This project implements a mobile-responsive shopping app with basic cart functio
 
 ### Screens
 
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="github_images/home_screen.png" alt="home_screen" style="width: 48%;">
+  <img src="github_images/cart_screen.png" alt="cart_screen" style="width: 48%;">
+</div>
+
+
+<br>
+<br>
+
 **Home Screen:**
-
-![Home Screen](github_images/home_screen.png)
-
 
 -   Displays different content based on the selected bottom navigation bar item, maintaining proper styling for the active item (you can use the built-in Material Icons for the bar icons).
 -   Navigates to the "My Cart" screen when tapping the cart icon.
 
-**My Cart Screen:**
+<br>
 
-![Cart Screen](github_images/cart_screen.png)
+**My Cart Screen:**
 
 -   Increase and decrease item count functionality with accurate checkout price calculation.
 -   "Checkout" button triggers a confirmation dialog with buttons to confirm or cancel.
