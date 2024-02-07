@@ -26,14 +26,12 @@ This project implements a mobile-responsive shopping app with basic cart functio
 
 -   Displays different content based on the selected bottom navigation bar item, maintaining proper styling for the active item (you can use the built-in Material Icons for the bar icons).
 -   Navigates to the "My Cart" screen when tapping the cart icon in the appbar.
--   use the images in the `assets` folder for products
-
-<br>
+-   use photos from the `assets` folder for products
 
 **My Cart Screen:**
 
 -   Increase and decrease item count functionality with accurate checkout price calculation.
--   "Checkout" button triggers a confirmation dialog with buttons to confirm or cancel.
+-   "Checkout" button triggers a confirmation dialog with two buttons to confirm or cancel.
 -   Snackbar displays error or success message based on the checkout action.
 
 ### Project Setup
